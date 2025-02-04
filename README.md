@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-![Screenshot of Amigo Secreto](./assets/amigo-secreto-desktop.png)
+![Screenshot of Amigo Secreto](./amigo-secreto-desktop.png)
 
 ## Sobre
 
