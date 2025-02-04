@@ -14,10 +14,10 @@ Este projeto é uma aplicação web simples para sortear amigos secretos. Os usu
 
 ## Como Usar
 
-1. Acesse a URL <a href = "URL">http://C:/Users/Pc/OneDrive/%C3%81rea%20de%20Trabalho/desafio/index.html</a> para utilizar.
+1. Acesse a URL <a href = "URL">https://sorteio-do-amigo-secreto-sigma.vercel.app/</a> para utilizar.
 2. Digite o nome de um amigo no campo de entrada e clique no botão "Adicionar" ou clique no botão "Enter".
 3. Clique no botão "Sortear amigo" para sortear um amigo secreto.
-4. Se caso ao sortear um nome, este nome for o seu, clique no botão "Voltar" para desfazer este último sorteio. Para então realizar outro sorteio clicando no botão "Sortear amigo".
+4. Se caso ao sortear um nome, este nome for o seu, Aperte "Ctrl + R" para desfazer este último sorteio. Para então realizar outro sorteio clicando no botão "Sortear amigo".
 
 ### Tecnologias Utilizadas
 
